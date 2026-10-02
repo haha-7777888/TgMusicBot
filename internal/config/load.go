@@ -26,7 +26,7 @@ const (
 	defaultDownloadsDir   = "downloads"
 	defaultSupportGroup   = "https://t.me/FallenSupport"
 	defaultSupportChannel = "https://t.me/FallenProjects"
-	defaultStartImage     = "https://i.pinimg.com/736x/0d/f4/65/0df465d1e98239ecb6283400605fc813.jpg"
+	defaultStartImage     = "https://files.catbox.moe/onc6xg.jpg"
 	defaultMaxFileSize    = int64(500 * 1024 * 1024)
 	defaultSongDuration   = int32(3600)
 	defaultSessionType    = "pyrogram"
